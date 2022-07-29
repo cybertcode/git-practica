@@ -75,7 +75,16 @@ si lo puedes imaginar lo puedes programar
       - subitem
       - subitem
       - subitem
+
 ## Para trabajar con imagenes
+
 ![Batman](https://github.com/cybertcode/git-practica/blob/master/3.jpg?raw=true)
+
 ## Enlace para ir a la imagen
+
 [Ir a la imagen](https://github.com/cybertcode/git-practica/blob/master/3.jpg?raw=true)
+
+# RECURSOS PARA MARKDOWN
+
+[tutorial práctico](https://www.markdowntutorial.com/es/)
+[Emoji cheetsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
