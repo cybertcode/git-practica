@@ -4,4 +4,5 @@ De código abierto para cualquiera que quiera piratear
 
 ## Trabajando con ramas
 
-la información cada vez es mas genial y buena
+la información cada vez es mas genial y buena de la mejor manera
+grandes retos de la vida nos esperan en el mundo de la programación web
