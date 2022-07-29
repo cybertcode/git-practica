@@ -38,3 +38,9 @@ el conocimiento es poder y es genial
 el conocimiento es poder y es genial
 el conocimiento es poder y es genial
 el conocimiento es poder y es genial
+## DE LA RAMA REBASE 2
+
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
