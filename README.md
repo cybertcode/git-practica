@@ -26,3 +26,9 @@ el conocimiento es poder y es genial
 el conocimiento es poder y es genial
 el conocimiento es poder y es genial
 el conocimiento es poder y es genial
+## TRABAJANDO CON GIT REBASE 2
+
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
