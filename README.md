@@ -20,8 +20,3 @@ la grande retos información cada vez es mas genial y buena de la mejor manera c
 la grande retos información cada vez es mas genial y buena de la mejor manera claro que si
 la grande retos información cada vez es mas genial y buena de la mejor manera claro que si
 
-grandes retos de la vida nos esperan en el mundo de la programación web
-
-## Trabajando con stash
-
-la grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que sila grande retos información cada vez es mas genial y buena de la mejor manera claro que si
