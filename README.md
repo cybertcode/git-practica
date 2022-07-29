@@ -20,3 +20,9 @@ la grande retos información cada vez es mas genial y buena de la mejor manera c
 la grande retos información cada vez es mas genial y buena de la mejor manera claro que si
 la grande retos información cada vez es mas genial y buena de la mejor manera claro que si
 
+## TRABAJANDO CON GIT REBASE
+
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
+el conocimiento es poder y es genial
