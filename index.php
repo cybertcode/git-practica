@@ -1,4 +1,5 @@
 <?php
 echo "completado";
-echo "completado ok";
-echo "completado okok";
+echo "fixes ok";
+echo "resolves okok";
+echo "closes okok";
